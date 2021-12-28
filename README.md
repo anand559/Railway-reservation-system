@@ -9,6 +9,6 @@ It also has Admin side which allows extra features like Add Routes,Stations,Trai
 Login Credentials
 Admin Side :    Uid-'anand'       Pass-'pass1234' 
 
-Normal User:    Uid:'ashish'       Pass-'ashish123'
+Normal User:    Uid:'ashish'       Pass-'pass123'
  
 Use Port 8500
